@@ -2,7 +2,7 @@
 [![JCS-ELPA](https://raw.githubusercontent.com/jcs-emacs/badges/master/elpa/v/company-kaomoji.svg)](https://jcs-emacs.github.io/jcs-elpa/#/company-kaomoji)
 
 # company-kaomoji
-> company-mode backend for kaomoji
+> Company backend for Kaomoj
 
 [![CI](https://github.com/jcs-elpa/company-kaomoji/actions/workflows/test.yml/badge.svg)](https://github.com/jcs-elpa/company-kaomoji/actions/workflows/test.yml)
 
