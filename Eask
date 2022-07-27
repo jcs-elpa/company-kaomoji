@@ -1,6 +1,6 @@
 (package "company-kaomoji"
          "0.1.0"
-         "Fuzzy matching for `company-mode'")
+         "company-mode backend for kaomoji")
 
 (website-url "https://github.com/jcs-elpa/company-kaomoji")
 (keywords "matching" "kaomoji")
