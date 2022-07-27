@@ -1,6 +1,6 @@
 (package "company-kaomoji"
          "0.1.0"
-         "company-mode backend for kaomoji")
+         "Company backend for Kaomoj")
 
 (website-url "https://github.com/jcs-elpa/company-kaomoji")
 (keywords "matching" "kaomoji")
@@ -12,6 +12,7 @@
 (depends-on "emacs" "26.1")
 (depends-on "company")
 (depends-on "kaomoji")
+(depends-on "ht")
 
 (development
  (depends-on "ert-runner"))
