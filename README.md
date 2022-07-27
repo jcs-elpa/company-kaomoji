@@ -6,6 +6,23 @@
 
 [![CI](https://github.com/jcs-elpa/company-kaomoji/actions/workflows/test.yml/badge.svg)](https://github.com/jcs-elpa/company-kaomoji/actions/workflows/test.yml)
 
+## 💾 Quickstart
+
+```elisp
+(require 'company-kaomoji)
+(add-to-list 'company-backends 'company-kaomoji)
+```
+
+## 🔨 Configuration
+
+#### 🔍 `company-kaomoji-annotation`
+
+Display information about the kaomoji with annotation, default to `t`.
+
+#### 🔍 `company-kaomoji-document`
+
+Display information about the kaomoji in document buffer, default to `t`.
+
 ## Contribute
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
