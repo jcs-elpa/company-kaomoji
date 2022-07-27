@@ -7,7 +7,13 @@
 
 (package-file "company-kaomoji.el")
 
+(source "gnu")
+(source "melpa")
 (source "jcs-elpa")
+
+(source-priority "gnu"      0)
+(source-priority "melpa"    5)
+(source-priority "jcs-elpa" 10)
 
 (depends-on "emacs" "26.1")
 (depends-on "company")
