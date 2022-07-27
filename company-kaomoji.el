@@ -1,4 +1,4 @@
-;;; company-kaomoji.el ---   -*- lexical-binding: t; -*-
+;;; company-kaomoji.el --- company-mode backend for kaomoji  -*- lexical-binding: t; -*-
 
 ;; Copyright (C) 2022  Shen, Jen-Chieh
 
@@ -26,7 +26,7 @@
 
 ;;; Commentary:
 ;;
-;;
+;; company-mode backend for kaomoji
 ;;
 
 ;;; Code:
