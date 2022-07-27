@@ -51,7 +51,8 @@
   :type 'boolean
   :group 'company-kaomoji)
 
-(defvar-local company-kaomoji--data nil)
+(defvar-local company-kaomoji--data nil
+  "Data is used for uniquify candidates.")
 
 (defun company-kaomoji--prefix ()
   "Return prefix."
