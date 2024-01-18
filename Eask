@@ -1,6 +1,6 @@
 (package "company-kaomoji"
          "0.1.0"
-         "Company backend for Kaomoj")
+         "Company backend for Kaomoji")
 
 (website-url "https://github.com/jcs-elpa/company-kaomoji")
 (keywords "matching" "kaomoji")
