@@ -1,4 +1,4 @@
-;;; company-kaomoji.el --- Company backend for Kaomoj  -*- lexical-binding: t; -*-
+;;; company-kaomoji.el --- Company backend for Kaomoji  -*- lexical-binding: t; -*-
 
 ;; Copyright (C) 2022-2024  Shen, Jen-Chieh
 
@@ -26,7 +26,7 @@
 
 ;;; Commentary:
 ;;
-;; Company backend for Kaomoj
+;; Company backend for Kaomoji
 ;;
 
 ;;; Code:
@@ -36,7 +36,7 @@
 (require 'ht)
 
 (defgroup company-kaomoji nil
-  "Company backend for Kaomoj."
+  "Company backend for Kaomoji."
   :prefix "company-kaomoji-"
   :group 'company
   :link '(url-link :tag "Repository" "https://github.com/jcs-elpa/company-kaomoji"))
