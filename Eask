@@ -1,3 +1,5 @@
+;; -*- mode: eask; lexical-binding: t -*-
+
 (package "company-kaomoji"
          "0.1.0"
          "Company backend for Kaomoji")
